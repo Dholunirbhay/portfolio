@@ -8,7 +8,7 @@ const About = () => {
         <div className="about">
            <h1> About Me </h1>
           
-          <img src="https://images.pexels.com/photos/18631361/pexels-photo-18631361/free-photo-of-a-room-with-a-table-and-chairs-and-pictures-on-the-wall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Wealth" />
+          <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fHw%3D" alt="Wealth" />
 
             {/* <img src={loan} alt="Wealth" />    */}
 
